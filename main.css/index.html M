@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Présentation de mon film préféré</title>
+</head>
+<body>
+    <h1>Interstellar</h1>
+    <img src=https://www.loulou-affiche.com/4630-large_default/affiche-interstellar.jpg alt="">
+
+    <h2>Résumé</h2>
+
+    <p>Dans un proche futur, la Terre est devenue hostile pour l'homme. Les tempêtes de sable sont fréquentes et il n'y a plus que le maïs qui peut être cultivé, en raison d'un sol trop aride.</p>
+
+    <p> Cooper est un pilote, recyclé en agriculteur, qui vit avec son fils et sa fille dans la ferme familiale. Lorsqu'une force qu'il ne peut expliquer lui indique les coordonnées d'une division secrète de la NASA, il est alors embarqué dans une expédition pour sauver l'humanité.</p>
+
+    <h2>Distribution des rôles</h2>
+
+    <ul>
+        <li>Matthew McConaughey: Joseph Cooper</li>
+        <li>Anne Hathaway: Dr Amelia Brand</li>
+        <li>Michael Caine: Pr John Brand</li>
+        <li>Charles Herman: Paul Bettany</li>
+        <li>Richard Sol : Adam Goldberg</li>
+        <li>le docteur Rosen: Christopher Plumer</li>
+    </ul>
+
+    <h2>Références</h2>
+
+    Les informations sont principalement tirées de la <a
+    href="https://fr.wikipedia.org/wiki/Un_homme_d%27exception">page
+    Wikipedia du film</a>
+</body>
+</html>
